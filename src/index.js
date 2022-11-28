@@ -3,6 +3,9 @@ import ReactDOM from "react-dom/client";
 import  "./index.css";
 import { OrdenPago } from "./ordenDePago.js"; 
 
+//Proyecto REACT
+var num = 0
+
 const root = ReactDOM.createRoot(document.getElementById("root")); //componente raiz/inicial de react
 
 const Posts = () => {
